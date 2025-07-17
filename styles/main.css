@@ -270,7 +270,7 @@ a {
     transform: translateY(-6px) scale(1.02);
 }
 
-.card::before {
+/* .card::before {
     content: "";
     position: absolute;
     top: -3rem;
@@ -281,7 +281,7 @@ a {
     background: repeating-linear-gradient(45deg, #654321, #654321 2px, #5a3f1a 4px);
     border-radius: 2px;
     z-index: 2;
-}
+} */
 
 .card-img {
     width: 160px;
